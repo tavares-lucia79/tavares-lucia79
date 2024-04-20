@@ -1,6 +1,5 @@
 # Hi, I'm Lucia 👋🏾 👩🏾‍💻
 
-<img src="https://raw.githubusercontent.com/L0cia/L0cia/master/gh-header-image-cropped.png" alt="banner that says Lucia Tavares - web develop student, content creator and community organizer alongside a cartoon illustration of Lucia">
 I'm a web developer student, Skills Bootcamp at HyperionDev in Full Stack Web Development Fundamentals, where I will learn python, HTML, CSS, and JavaScript, great at collaboration, problem-solving, and visual thinking.
 
 
